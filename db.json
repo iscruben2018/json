@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "noEmpresa": 1,
+    "empresa": "Coppel revolucion",
+    "noProveedor": 1,
+    "proveedor":"Telcel",
+    "noDocumento":1
+  },
+  {
+    "id": 2,
+    "noEmpresa": 2,
+    "empresa": "Coppel centro",
+    "noProveedor": 2,
+    "proveedor":"Telcel centro",
+    "noDocumento":2
+  }
+  ]
