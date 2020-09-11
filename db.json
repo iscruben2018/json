@@ -8,6 +8,7 @@
     "proveedor":"Telcel",
     "noDocumento":1,
     "fecha":"1900-01-01 14:00:00.000",
+     "fechaHora":"2010-09-01",
     "hora":"13:00"
   },
   {
@@ -18,6 +19,7 @@
     "proveedor":"Telcel centro",
     "noDocumento":2,
     "fecha":"2020-09-01 16:00:00.000",
+     "fechaHora":"2010-09-01",
     "hora":"14:00"
   }
   ]
