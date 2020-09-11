@@ -7,7 +7,8 @@
     "noProveedor": 1,
     "proveedor":"Telcel",
     "noDocumento":1,
-    "fecha":"1900-01-01 14:00:00.000"
+    "fecha":"1900-01-01 14:00:00.000",
+    "hora":"13:00"
   },
   {
     "id": 2,
@@ -16,7 +17,8 @@
     "noProveedor": 2,
     "proveedor":"Telcel centro",
     "noDocumento":2,
-    "fecha":"2020-09-01 16:00:00.000"
+    "fecha":"2020-09-01 16:00:00.000",
+    "hora":"14:00"
   }
   ]
 }
